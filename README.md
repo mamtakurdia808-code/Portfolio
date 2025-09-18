@@ -62,10 +62,9 @@ The portfolio includes:
 ---
 
 ## Screenshots
-*(Replace these placeholders with actual screenshots of your website)*  
 
 **Home Page:**  
-![Home](screenshots/home.png)  
+![Home](screenshots/Home.png)  
 
 **Projects Section:**  
 ![Projects](screenshots/portfolio.png)  
