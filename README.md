@@ -67,7 +67,7 @@ The portfolio includes:
 ![Home](screenshots/Home.png)  
 
 **Projects Section:**  
-![Projects](screenshots/portfolio.png)  
+![Projects](screenshots/projects.png)  
 
 **FSApp Page:**  
 ![FSApp](screenshots/fsapp.png)  
